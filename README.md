@@ -28,7 +28,7 @@ The model draws its metaphor from a punctured bag of water, symbolizing how matt
 - Visually animated homepage
 - Symbolic interpretation of scientific phenomena
 - Fully responsive HTML/CSS-based design
-- SEO-friendly architecture (meta tags coming soon)
+- SEO-friendly architecture (meta tags, favicon, sitemap)
 
 ---
 
@@ -57,6 +57,14 @@ Email: [mysticvibesera@gmail.com](mailto:mysticvibesera@gmail.com)
 
 - [Divine Energy in the Age of WiFi](https://divine-energy.vercel.app) — Brain-frequency based metaphysical healing model  
 - [Zenodo Publication (DOI)](https://doi.org/10.5281/zenodo.15259450) — Formal document on fluidic galactic motion
+
+---
+
+## Google Index Check (Live Status)
+
+- [Check if Cosmic Expansion is indexed](https://www.google.com/search?q=site:cosmic-expansion.vercel.app)
+- [Check if Divine Energy is indexed](https://www.google.com/search?q=site:divine-energy.vercel.app)
+- [Check if GitHub Pages is indexed](https://www.google.com/search?q=site:alpha-vision-era.github.io)
 
 ---
 

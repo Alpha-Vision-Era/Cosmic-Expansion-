@@ -48,8 +48,7 @@ The model draws its metaphor from a punctured bag of water, symbolizing how matt
 ## Author
 
 **Syed Waleed Mehboob Ali**  
-Businessman | Independent Researcher | Energy Explorer  
-Email: [mysticvibesera@gmail.com](mailto:mysticvibesera@gmail.com)
+Businessman | Independent Researcher | Energy Explorer 
 
 ---
 
@@ -57,6 +56,18 @@ Email: [mysticvibesera@gmail.com](mailto:mysticvibesera@gmail.com)
 
 - [Divine Energy in the Age of WiFi](https://divine-energy.vercel.app) — Brain-frequency based metaphysical healing model  
 - [Zenodo Publication (DOI)](https://doi.org/10.5281/zenodo.15259450) — Formal document on fluidic galactic motion
+
+---
+
+## Connect With the Author
+
+**Syed Waleed Mehboob Ali**  
+Email: [mysticvibesera@gmail.com](mailto:mysticvibesera@gmail.com)
+
+### **Social Links:**
+- [Facebook](https://www.facebook.com/share/p/18hGXadqbr/)
+- [Instagram – @divine.energy.work](https://www.instagram.com/divine.energy.work?igsh=MXc4YWN0ajlmMmwzbw==)
+- [Threads – @divine.energy.work](https://www.threads.net/@divine.energy.work)
 
 ---
 

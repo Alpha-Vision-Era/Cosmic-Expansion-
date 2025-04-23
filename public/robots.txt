@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cosmic-expansion.vercel.app/sitemap.xml
